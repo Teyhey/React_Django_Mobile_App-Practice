@@ -1,0 +1,13 @@
+To run the server:
+    ./manage.py runserver
+
+To Make migrations (must be done before updating database):
+    python3 manage.py makemigrations
+
+How to Update database:
+    python3 manage.py migrate 
+
+How to start a Django App (already done, dont use this):
+    django-admin startapp demo 
+
+
