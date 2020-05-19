@@ -1,4 +1,4 @@
-#!/Users/jtejeda/Documents/Travel App/Practice/Technology-Practice/venv/bin/python3
+#!/Volumes/PNYPROELITE/Travel App/Practice/Technology-Practice/venv/bin/python3
 from django.core import management
 
 if __name__ == "__main__":

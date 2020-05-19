@@ -10,4 +10,9 @@ How to Update database:
 How to start a Django App (already done, dont use this):
     django-admin startapp demo 
 
+How to create Python virtual Env:
+    python3 -m venv venv
+
+How to activate the python virtual Env
+    source venv/bin/activate
 

@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/jtejeda/Documents/Travel App/Practice/Technology-Practice/venv/bin/python3" "$0" "$@"
+'''exec' "/Volumes/PNYPROELITE/Travel App/Practice/Technology-Practice/venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
